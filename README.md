@@ -15,4 +15,4 @@ which is why I created this script. Automatic downloading and chasing through th
 * [ ] Check entered BLAKE2-Hash sum.
 
 ## End
-fun fact: i am a noob at bash scripting xD
+fun fact: i am a noob at bash scripting
