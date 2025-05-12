@@ -9,7 +9,7 @@ which is why I created this script. Automatic downloading and chasing through th
 
 ## Features:
 ### You can contribute and help me with this :)
-* [*] Download entered stuff.
-* [*] Check entered SHA256-Hash sum.
-* [] Check entered RIPEMD-Hash sum.
-* [] Check entered BLAKE2-Hash sum.
+* [X] Download entered stuff.
+* [X] Check entered SHA256-Hash sum.
+* [ ] Check entered RIPEMD-Hash sum.
+* [ ] Check entered BLAKE2-Hash sum.
